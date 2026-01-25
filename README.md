@@ -69,6 +69,7 @@ mission: "Building intelligent systems that solve real-world problems"
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ### Real-Time & Communication
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -108,7 +109,7 @@ mission: "Building intelligent systems that solve real-world problems"
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -145,7 +146,19 @@ mission: "Building intelligent systems that solve real-world problems"
 </tr>
 </table>
 
-> 💡 *Designed to address real security vulnerabilities in autonomous drone operations*
+---
+
+### � Local-Chat-Server
+**Real-time messaging server for local networks**
+
+A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network.
+
+---
+
+### ♻️ Wastevision_AI
+**AI-powered computer vision for waste detection and tracking**
+
+Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/video streams — aimed at smarter recycling and automated sorting.
 
 ---
 
