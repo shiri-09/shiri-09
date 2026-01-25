@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sriraksha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20future%20with%20AI%20%26%20Code&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sriraksha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20future%20with%20AI%20and%20Code&descAlignY=52&descSize=18)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=First-Year+B.Tech+%40+PES+University;AI+%7C+Backend+Systems+%7C+Cybersecurity;Building+Real-Time+Intelligent+Systems;GSoC+2026+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
