@@ -1,19 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sriraksha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20future%20with%20AI%20%26%20Code&descAlignY=52&descSize=18"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sriraksha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20future%20with%20AI%20%26%20Code&descAlignY=52&descSize=18)
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=First-Year+B.Tech+%40+PES+University;AI+%7C+Backend+Systems+%7C+Cybersecurity;Building+Real-Time+Intelligent+Systems;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=First-Year+B.Tech+%40+PES+University;AI+%7C+Backend+Systems+%7C+Cybersecurity;Building+Real-Time+Intelligent+Systems;GSoC+2026+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
-<p>
-<a href="https://www.linkedin.com/in/sriraksha-j-351a95383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:srirakshaj56@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/shiri-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraksha-j-351a95383/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirakshaj56@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiri-09)
 
-<img src="https://komarev.com/ghpvc/?username=shiri-09&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=shiri-09&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -95,60 +93,38 @@ mission: "Building intelligent systems that solve real-world problems"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiri-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiri-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiri-09&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiri-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiri-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiri-09&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiri-09&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiri-09&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true)
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🛡️ DroneGuard-AI
 **Real-Time Drone Intrusion Detection & Failsafe System**
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Type-Security%20%2F%20AI-blue?style=for-the-badge"/>
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Security%20%2F%20AI-blue?style=for-the-badge)
 
-</div>
+| 🎯 What It Does | 🔧 Built With |
+|:----------------|:--------------|
+| • **Live Telemetry Monitoring** — GPS, IMU, speed, heading | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| • **Threat Detection** — GPS spoofing, sensor anomalies | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
+| • **Automated Failsafe** — Instant response to threats | |
+| • **Real-Time Dashboard** — Live visualization and alerts | |
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 What It Does
-- **Live Telemetry Monitoring** — GPS, IMU, speed, heading
-- **Threat Detection** — GPS spoofing, sensor anomalies, abnormal patterns
-- **Automated Failsafe** — Instant response to detected threats
-- **Real-Time Dashboard** — Live visualization and alerts
-
-</td>
-<td width="50%">
-
-#### 🔧 Built With
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Architecture:** Event-driven pipeline with real-time anomaly scoring and automated response triggers
-
-</td>
-</tr>
-</table>
+> 💡 *Event-driven pipeline with real-time anomaly scoring and automated response triggers*
 
 ---
 
-### � Local-Chat-Server
+### 💬 Local-Chat-Server
 **Real-time messaging server for local networks**
 
 A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network.
@@ -164,8 +140,6 @@ Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/
 
 ## 🎯 Current Goals
 
-<div align="center">
-
 | Goal | Status |
 |:-----|:------:|
 | 🌟 **GSoC 2026** — Contributing to open source and preparing for Google Summer of Code | 🔄 In Progress |
@@ -173,8 +147,6 @@ Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/
 | 🤖 **Edge AI** — On-device inference for embedded systems | 🔄 Exploring |
 | 🔐 **Offensive Security** — Vulnerability research and penetration testing | 📋 Planned |
 | 🛠️ **OSS Contributions** — Making meaningful contributions to open source projects | 🔄 Active |
-
-</div>
 
 ---
 
@@ -200,15 +172,8 @@ Currently exploring organizations and projects aligned with my interests in:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sriraksha-j-351a95383/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:srirakshaj56@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraksha-j-351a95383/)
+[![Drop me an email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirakshaj56@gmail.com)
 
 **💬 Open to:**
 `Hackathons` · `Open Source Collaboration` · `Research Projects` · `Tech Discussions`
@@ -223,8 +188,6 @@ Currently exploring organizations and projects aligned with my interests in:
 
 *"I learn by building. Every project is an experiment, every failure is a lesson, every line of code brings me closer to mastery."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
