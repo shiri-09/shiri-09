@@ -99,7 +99,7 @@ mission: "Building intelligent systems that solve real-world problems"
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shiri-09&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiri-09&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiri-09&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&custom_title=Sriraksha's%20Contribution%20Graph)
 
 </div>
 
