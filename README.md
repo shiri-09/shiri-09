@@ -97,7 +97,7 @@ mission: "Building intelligent systems that solve real-world problems"
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiri-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiri-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiri-09&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shiri-09&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiri-09&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true)
 
