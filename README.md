@@ -33,7 +33,7 @@ I enjoy learning new programming languages, experimenting with emerging technolo
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-ff6f00?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square)
-![Edge Computing](https://img.shields.io/badge/Edge%20Computing-4CAF50?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </div>
