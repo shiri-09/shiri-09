@@ -91,7 +91,49 @@ mission: "Building intelligent systems that solve real-world problems"
 
 ## 🚀 Featured Projects
 
-### 🛡️ DroneGuard-AI
+### 🔋 [EV-OOPS](https://github.com/shiri-09/EV-OOPS)
+**Predicts EV battery lifespan using NASA datasets & physics-based models**
+
+Compares battery chemistries, shows nearby EV charging stations and crowd levels, and supports Raspberry Pi 5 integration for real-time battery monitoring. Built with **JavaScript**.
+
+---
+
+### ✈️ [SteerPlane](https://github.com/shiri-09/SteerPlane)
+**Runtime Control Plane for Autonomous AI Agents**
+
+Cost limits, loop detection, and full observability with one decorator.
+
+---
+
+### 🌌 [AURORA](https://github.com/shiri-09/AURORA)
+**Auditable Unlearning for Relational & Orchestrated Reasoning Architectures**
+
+A research-grade framework for provable multi-hop knowledge unlearning in LLMs, combining relational cascade optimization, adversarial resistance, cryptographic forgetting certificates, and quantum-inspired irreversibility verification. Built with **Python**.
+
+---
+
+### 🔒 [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY)
+**A structural security engine**
+
+Proves whether cyber compromise is unavoidable given a system's design. Using causal modeling and constraint solving, it identifies inevitable attack paths, detects security theater, and extracts the minimal architectural changes required to make breaches impossible. Built with **Python**.
+
+---
+
+### 🛠️ [REPAIR.ai](https://github.com/shiri-09/REPAIR.ai)
+**AI-powered self-healing system**
+
+Detects failures, performs root-cause analysis, explains issues, and executes safe automated repairs across real-world software and infrastructure. Built with **TypeScript**.
+
+---
+
+### 🛡️ [SentinelNet](https://github.com/shiri-09/SentinelNet)
+**AI driven security and monitoring system**
+
+Detects threats, analyzes anomalies, and triggers real time alerts for rapid response. Built with **JavaScript**.
+
+---
+
+### 🚁 [DroneGuard-AI](https://github.com/shiri-09/DroneGuard-AI)
 **Real-Time Drone Intrusion Detection & Failsafe System**
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -108,17 +150,17 @@ mission: "Building intelligent systems that solve real-world problems"
 
 ---
 
-### 💬 Local-Chat-Server
+### 💬 [Local-Chat-Server](https://github.com/shiri-09/Local-Chat-Server)
 **Real-time messaging server for local networks**
 
-A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network.
+A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network. Built with **HTML**.
 
 ---
 
-### ♻️ Wastevision_AI
+### ♻️ [Wastevision_AI](https://github.com/shiri-09/Wastevision_AI)
 **AI-powered computer vision for waste detection and tracking**
 
-Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/video streams — aimed at smarter recycling and automated sorting.
+Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/video streams — aimed at smarter recycling and automated sorting. Built with **Jupyter Notebook**.
 
 ---
 
