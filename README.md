@@ -1,95 +1,219 @@
 <div align="center">
 
-# S R I R A K S H A 
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sriraksha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20future%20with%20AI%20and%20Code&descAlignY=52&descSize=18)
 
-` Building intelligent systems that solve real-world problems. `
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=First-Year+B.Tech+%40+PES+University;AI+%7C+Backend+Systems+%7C+Cybersecurity;Building+Real-Time+Intelligent+Systems;GSoC+2026+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraksha-j-351a95383/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirakshaj56@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiri-09)
 
-```text
-[ B.Tech @ PES University ]   ⸻   [ GSoC 2026 Aspirant ]   ⸻   [ AI & Systems Explorer ]
-```
+![Profile Views](https://komarev.com/ghpvc/?username=shiri-09&style=for-the-badge&color=0e75b6)
 
-<br><br><br>
+</div>
 
-## ⬩ T H E &nbsp; F O C U S ⬩
+---
+
+## 🧠 About Me
 
 ```yaml
-active_research:
-  - "Real-time AI frameworks & Drone security"
-  - "Distributed architectures & Edge inference"
-  - "Offensive security & Threat detection"
-  
-principles:
-  - "Build under pressure (Active Hackathon Participant)"
-  - "Learn by breaking and building"
-  - "Ship real-world, open-source solutions"
+name: Sriraksha
+education: B.Tech @ PES University (First Year)
+
+current_focus:
+  - Real-time AI systems
+  - Backend architecture
+  - Open source contributions
+
+mission: "Building intelligent systems that solve real-world problems"
 ```
 
-<br><br><br>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## ⬩ T H E &nbsp; A R S E N A L ⬩
+- 🔭 Currently working on **real-time drone security systems**
+- 🌱 Deep diving into **distributed systems** and **edge AI**
+- 🎯 **GSoC 2026** aspirant — actively exploring orgs
+- 🛡️ Passionate about **cybersecurity** and threat detection
+- 🏆 Active **hackathon participant** — I build under pressure
+- 💡 I believe in **learning by building**
 
-| **Core & APIs** | **Intelligence & Vision** | **Systems & Data** |
-| :--- | :--- | :--- |
-| `Python` `TypeScript` | `PyTorch` `TensorFlow` | `Docker` `Linux` |
-| `C++` `C` `JavaScript`| `YOLOv8` `OpenCV` | `PostgreSQL` `Redis` |
-| `FastAPI` `Node.js`   | `scikit-learn` | `WebSockets` `MQTT` |
+<br clear="right"/>
 
-<br><br><br>
+---
 
-## ⬩ T H E &nbsp; A R C H I V E ⬩
+## 🛠️ Tech Arsenal
 
-<br>
+<div align="center">
 
-### ↳ [EV-OOPS](https://github.com/shiri-09/EV-OOPS)
-NASA dataset-powered EV battery lifespan prediction via physics-based models. Features real-time Raspberry Pi 5 integration.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<br>
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### ↳ [SteerPlane](https://github.com/shiri-09/SteerPlane)
-Runtime Control Plane for Autonomous AI Agents — enforces cost limits, detects loops, and provides full execution observability.
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-<br>
+### Real-Time & Communication
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ↳ [AURORA](https://github.com/shiri-09/AURORA)
-Research-grade framework for provable multi-hop knowledge unlearning in LLMs via relational cascade optimization & cryptographic verification.
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### ↳ [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY)
-Structural security engine using causal modeling to mathematically prove whether cyber compromise is unavoidable given a specific system layout.
+</div>
 
-<br>
+---
 
-### ↳ [REPAIR.ai](https://github.com/shiri-09/REPAIR.ai)
-AI-powered self-healing system for detecting software failures, performing root-cause analysis, and executing safe automated repairs.
+## 🚀 Featured Projects
 
-<br>
+### 🔋 [EV-OOPS](https://github.com/shiri-09/EV-OOPS)
+**Predicts EV battery lifespan using NASA datasets & physics-based models**
 
-### ↳ [SentinelNet](https://github.com/shiri-09/SentinelNet)
-AI-driven monitoring architecture that detects threats, analyzes anomalies, and triggers instant alerts for rapid response.
+Compares battery chemistries, shows nearby EV charging stations and crowd levels, and supports Raspberry Pi 5 integration for real-time battery monitoring. Built with **JavaScript**.
 
-<br>
+---
 
-### ↳ [DroneGuard-AI](https://github.com/shiri-09/DroneGuard-AI)
-Real-time intrusion detection and failsafe system for drones, verifying GPS/IMU telemetry against spoofing and physical anomalies.
+### ✈️ [SteerPlane](https://github.com/shiri-09/SteerPlane)
+**Runtime Control Plane for Autonomous AI Agents**
 
-<br>
+Cost limits, loop detection, and full observability with one decorator.
 
-### ↳ [Wastevision_AI](https://github.com/shiri-09/Wastevision_AI)
-Computer vision pipeline for continuous waste detection, classification, and tracking using YOLOv8 and DeepSort algorithms.
+---
 
-<br><br><br>
+### 🌌 [AURORA](https://github.com/shiri-09/AURORA)
+**Auditable Unlearning for Relational & Orchestrated Reasoning Architectures**
 
-## ⬩ C O N T A C T ⬩
+A research-grade framework for provable multi-hop knowledge unlearning in LLMs, combining relational cascade optimization, adversarial resistance, cryptographic forgetting certificates, and quantum-inspired irreversibility verification. Built with **Python**.
 
-<br>
+---
 
-[ **[ LinkedIn ]** ](https://www.linkedin.com/in/sriraksha-j-351a95383/) &nbsp; ⸻ &nbsp; [ **[ GitHub ]** ](https://github.com/shiri-09) &nbsp; ⸻ &nbsp; [ **[ Email ]** ](mailto:srirakshaj56@gmail.com)
+### 🔒 [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY)
+**A structural security engine**
 
-<br><br><br>
+Proves whether cyber compromise is unavoidable given a system's design. Using causal modeling and constraint solving, it identifies inevitable attack paths, detects security theater, and extracts the minimal architectural changes required to make breaches impossible. Built with **Python**.
 
-> *I learn by building. Every project is an experiment, every failure is a lesson, every line of code brings me closer to mastery.*
+---
+
+### 🛠️ [REPAIR.ai](https://github.com/shiri-09/REPAIR.ai)
+**AI-powered self-healing system**
+
+Detects failures, performs root-cause analysis, explains issues, and executes safe automated repairs across real-world software and infrastructure. Built with **TypeScript**.
+
+---
+
+### 🛡️ [SentinelNet](https://github.com/shiri-09/SentinelNet)
+**AI driven security and monitoring system**
+
+Detects threats, analyzes anomalies, and triggers real time alerts for rapid response. Built with **JavaScript**.
+
+---
+
+### 🚁 [DroneGuard-AI](https://github.com/shiri-09/DroneGuard-AI)
+**Real-Time Drone Intrusion Detection & Failsafe System**
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Security%20%2F%20AI-blue?style=for-the-badge)
+
+| 🎯 What It Does | 🔧 Built With |
+|:----------------|:--------------|
+| • **Live Telemetry Monitoring** — GPS, IMU, speed, heading | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| • **Threat Detection** — GPS spoofing, sensor anomalies | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
+| • **Automated Failsafe** — Instant response to threats | |
+| • **Real-Time Dashboard** — Live visualization and alerts | |
+
+> 💡 *Event-driven pipeline with real-time anomaly scoring and automated response triggers*
+
+---
+
+### 💬 [Local-Chat-Server](https://github.com/shiri-09/Local-Chat-Server)
+**Real-time messaging server for local networks**
+
+A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network. Built with **HTML**.
+
+---
+
+### ♻️ [Wastevision_AI](https://github.com/shiri-09/Wastevision_AI)
+**AI-powered computer vision for waste detection and tracking**
+
+Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/video streams — aimed at smarter recycling and automated sorting. Built with **Jupyter Notebook**.
+
+---
+
+## 🎯 Current Goals
+
+| Goal | Status |
+|:-----|:------:|
+| 🌟 **GSoC 2026** — Contributing to open source and preparing for Google Summer of Code | 🔄 In Progress |
+| 📚 **Distributed Systems** — Deep dive into system design and scalability | 🔄 Learning |
+| 🤖 **Edge AI** — On-device inference for embedded systems | 🔄 Exploring |
+| 🔐 **Offensive Security** — Vulnerability research and penetration testing | 📋 Planned |
+| 🛠️ **OSS Contributions** — Making meaningful contributions to open source projects | 🔄 Active |
+
+---
+
+## 🏆 Open Source Journey
+
+<div align="center">
+
+```
+🎯 GSoC 2026 Aspirant
+```
+
+Currently exploring organizations and projects aligned with my interests in:
+
+**AI/ML** · **Backend Systems** · **Security Tools** · **Developer Tools**
+
+*Actively looking to contribute — let's connect if you need a collaborator!*
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraksha-j-351a95383/)
+[![Drop me an email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirakshaj56@gmail.com)
+
+**💬 Open to:**
+`Hackathons` · `Open Source Collaboration` · `Research Projects` · `Tech Discussions`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+*"I learn by building. Every project is an experiment, every failure is a lesson, every line of code brings me closer to mastery."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
