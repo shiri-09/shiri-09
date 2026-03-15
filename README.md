@@ -19,16 +19,40 @@
 
 ## ✦ ABOUT ME
 
-> **B.Tech AI/ML Engineering Student @ PES University (First Year)**
-> *Endlessly curious about logic, deeply passionate about creation.*
+<div align="center">
 
-I'm an aspiring engineer exploring the intersection of **Artificial Intelligence** and **Cybersecurity**. I thrive on learning new programming languages and emerging technologies, and I'm currently diving into real-world systems architecture using tools like the **Raspberry Pi 5**. My philosophy is to build under pressure, learn by breaking things, and tackle challenging projects head-on.
+**B.Tech AI/ML Engineering Student @ PES University (First Year)**  
+*Curious mind • Builder mentality • Always learning*
 
-**Beyond the Terminal**
-Life isn't just algorithms and syntax. When I step away from my IDE, I am an active **Bharatanatyam dancer**, an enthusiastic **Model UN participant**, and a creator of intricate **Mandala art**. I believe the best engineering comes from well-rounded creativity—I love deep discussions, exchanging fresh ideas, and collaborating with diverse teams.
+</div>
 
-**The Mentality**
-Targeting **GSoC 2026**. I learn by building.
+I’m an aspiring engineer exploring the intersection of **Artificial Intelligence**, **Cybersecurity**, and **real-world intelligent systems**.  
+I enjoy learning new programming languages, experimenting with emerging technologies, and building practical systems — currently diving into projects using the **Raspberry Pi 5** and modern AI tools.
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-ff6f00?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square)
+![Edge Computing](https://img.shields.io/badge/Edge%20Computing-4CAF50?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</div>
+
+### ✨ Beyond the Terminal
+
+When I step away from coding, I explore creativity and collaboration through:
+
+- 💃 **Bharatanatyam dancer**
+- 🌍 **Model UN participant**
+- 🧿 **Mandala art creator**
+
+I believe strong engineers grow from **curiosity, creativity, and meaningful conversations**.
+
+### 🚀 Mindset
+
+> **Build • Break • Learn • Repeat**
+
+Currently preparing for **GSoC 2026** while continuously building projects and exploring new ideas.
 
 <br>
 
