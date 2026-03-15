@@ -89,18 +89,6 @@ Currently preparing for **GSoC 2026** while continuously building projects and e
 
 ---
 
-## 🎯 Current Goals
-
-| Goal | Status |
-|:-----|:------:|
-| 🌟 **GSoC 2026** — Contributing to open source and preparing for Google Summer of Code | 🔄 In Progress |
-| 📚 **Distributed Systems** — Deep dive into system design and scalability | 🔄 Learning |
-| 🤖 **Edge AI** — On-device inference for embedded systems | 🔄 Exploring |
-| 🔐 **Offensive Security** — Vulnerability research and penetration testing | 📋 Planned |
-| 🛠️ **OSS Contributions** — Making meaningful contributions to open source projects | 🔄 Active |
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
