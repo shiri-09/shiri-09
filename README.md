@@ -19,22 +19,25 @@
 
 ## ✦ A B O U T &nbsp; M E
 
-> *"Building intelligent systems that solve real-world problems"*
+<br>
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  NAME      : Sriraksha                                                 │
-│  EDUCATION : B.Tech @ PES University (First Year)                      │
-│  FOCUS     : Real-time AI ⬩ Backend Architecture ⬩ OSS Contributions   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+> **B U I L D I N G &nbsp; I N T E L L I G E N T &nbsp; S Y S T E M S**  
+> *That solve real-world problems.*
 
-**[ 🔭 ]** Currently Engineering &nbsp;⸻&nbsp; **Real-time drone security systems**  
-**[ 🌱 ]** Deep Diving Into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Distributed systems and edge AI**  
-**[ 🎯 ]** Ambition &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **GSoC 2026 Aspirant** (actively exploring orgs)  
-**[ 🛡️ ]** Passion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Cybersecurity and threat detection**  
-**[ 🏆 ]** Mentality &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Active hackathon participant** (I build under pressure)  
-**[ 💡 ]** Philosophy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **I believe in learning by building**  
+<br>
+
+**[ Ｓ ] Ｒ Ｉ Ｒ Ａ Ｋ Ｓ Ｈ Ａ**  
+`B.TECH @ PES UNIVERSITY` ⬩ `GSOC 2026 ASPIRANT`
+
+<br>
+
+**⸻ ⸻ ⸻ &nbsp; T H E &nbsp; M A N I F E S T O &nbsp; ⸻ ⸻ ⸻**
+
+▸ **[ 01 ] THE FOCUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; Real-time AI systems & Backend architecture  
+▸ **[ 02 ] THE DEEP DIVE** &nbsp;⸻&nbsp; Distributed systems & Edge AI  
+▸ **[ 03 ] THE PASSION** &nbsp;&nbsp;&nbsp;⸻&nbsp; Cybersecurity & Threat detection  
+▸ **[ 04 ] THE METHOD** &nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; Active hackathon participant *(I build under pressure)*  
+▸ **[ 05 ] THE CREED** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **I learn by building.**
 
 <br>
 
@@ -45,98 +48,25 @@
 <div align="center">
 
 ### Languages
+<br>
 **Python, JavaScript, C++, C, Java, MySQL, HTML / CSS, Scratch**
+<br><br>
 
 ### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Software
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔋 [EV-OOPS](https://github.com/shiri-09/EV-OOPS)
-**Predicts EV battery lifespan using NASA datasets & physics-based models**
-
-Compares battery chemistries, shows nearby EV charging stations and crowd levels, and supports Raspberry Pi 5 integration for real-time battery monitoring. Built with **JavaScript**.
-
----
-
-### ✈️ [SteerPlane](https://github.com/shiri-09/SteerPlane)
-**Runtime Control Plane for Autonomous AI Agents**
-
-Cost limits, loop detection, and full observability with one decorator.
-
----
-
-### 🌌 [AURORA](https://github.com/shiri-09/AURORA)
-**Auditable Unlearning for Relational & Orchestrated Reasoning Architectures**
-
-A research-grade framework for provable multi-hop knowledge unlearning in LLMs, combining relational cascade optimization, adversarial resistance, cryptographic forgetting certificates, and quantum-inspired irreversibility verification. Built with **Python**.
-
----
-
-### 🔒 [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY)
-**A structural security engine**
-
-Proves whether cyber compromise is unavoidable given a system's design. Using causal modeling and constraint solving, it identifies inevitable attack paths, detects security theater, and extracts the minimal architectural changes required to make breaches impossible. Built with **Python**.
-
----
-
-### 🛠️ [REPAIR.ai](https://github.com/shiri-09/REPAIR.ai)
-**AI-powered self-healing system**
-
-Detects failures, performs root-cause analysis, explains issues, and executes safe automated repairs across real-world software and infrastructure. Built with **TypeScript**.
-
----
-
-### 🛡️ [SentinelNet](https://github.com/shiri-09/SentinelNet)
-**AI driven security and monitoring system**
-
-Detects threats, analyzes anomalies, and triggers real time alerts for rapid response. Built with **JavaScript**.
-
----
-
-### 🚁 [DroneGuard-AI](https://github.com/shiri-09/DroneGuard-AI)
-**Real-Time Drone Intrusion Detection & Failsafe System**
-
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Security%20%2F%20AI-blue?style=for-the-badge)
-
-| 🎯 What It Does | 🔧 Built With |
-|:----------------|:--------------|
-| • **Live Telemetry Monitoring** — GPS, IMU, speed, heading | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| • **Threat Detection** — GPS spoofing, sensor anomalies | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
-| • **Automated Failsafe** — Instant response to threats | |
-| • **Real-Time Dashboard** — Live visualization and alerts | |
-
-> 💡 *Event-driven pipeline with real-time anomaly scoring and automated response triggers*
-
----
-
-### 💬 [Local-Chat-Server](https://github.com/shiri-09/Local-Chat-Server)
-**Real-time messaging server for local networks**
-
-A lightweight chat backend using **Flask and Socket.IO**, designed to run on a Raspberry Pi for instant communication across devices on the same Wi-Fi network. Built with **HTML**.
-
----
-
-### ♻️ [Wastevision_AI](https://github.com/shiri-09/Wastevision_AI)
-**AI-powered computer vision for waste detection and tracking**
-
-Uses **YOLOv8** and **DeepSort** to detect, classify, and track waste in images/video streams — aimed at smarter recycling and automated sorting. Built with **Jupyter Notebook**.
 
 ---
 
