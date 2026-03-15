@@ -27,7 +27,7 @@
 </div>
 
 I’m an aspiring engineer exploring the intersection of **Artificial Intelligence**, **Cybersecurity**, and **real-world intelligent systems**.  
-I enjoy learning new programming languages, experimenting with emerging technologies, and building practical systems — currently diving into projects using the **Raspberry Pi 5** and modern AI tools.
+I enjoy learning new programming languages, experimenting with emerging technologies, and building practical systems. Currently diving into projects using the **Raspberry Pi 5** and modern AI tools.
 
 <div align="center">
 
@@ -101,24 +101,6 @@ Currently preparing for **GSoC 2026** while continuously building projects and e
 
 ---
 
-## 🏆 Open Source Journey
-
-<div align="center">
-
-```
-🎯 GSoC 2026 Aspirant
-```
-
-Currently exploring organizations and projects aligned with my interests in:
-
-**AI/ML** · **Backend Systems** · **Security Tools** · **Developer Tools**
-
-*Actively looking to contribute — let's connect if you need a collaborator!*
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -134,8 +116,6 @@ Currently exploring organizations and projects aligned with my interests in:
 ---
 
 <div align="center">
-
-### 💡 Philosophy
 
 *"I learn by building. Every project is an experiment, every failure is a lesson, every line of code brings me closer to mastery."*
 
