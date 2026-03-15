@@ -17,30 +17,26 @@
 
 ---
 
-## 🧠 About Me
+## ✦ A B O U T &nbsp; M E
 
-```yaml
-name: Sriraksha
-education: B.Tech @ PES University (First Year)
+> *"Building intelligent systems that solve real-world problems"*
 
-current_focus:
-  - Real-time AI systems
-  - Backend architecture
-  - Open source contributions
-
-mission: "Building intelligent systems that solve real-world problems"
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  NAME      : Sriraksha                                                 │
+│  EDUCATION : B.Tech @ PES University (First Year)                      │
+│  FOCUS     : Real-time AI ⬩ Backend Architecture ⬩ OSS Contributions   │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+**[ 🔭 ]** Currently Engineering &nbsp;⸻&nbsp; **Real-time drone security systems**  
+**[ 🌱 ]** Deep Diving Into &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Distributed systems and edge AI**  
+**[ 🎯 ]** Ambition &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **GSoC 2026 Aspirant** (actively exploring orgs)  
+**[ 🛡️ ]** Passion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Cybersecurity and threat detection**  
+**[ 🏆 ]** Mentality &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **Active hackathon participant** (I build under pressure)  
+**[ 💡 ]** Philosophy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **I believe in learning by building**  
 
-- 🔭 Currently working on **real-time drone security systems**
-- 🌱 Deep diving into **distributed systems** and **edge AI**
-- 🎯 **GSoC 2026** aspirant — actively exploring orgs
-- 🛡️ Passionate about **cybersecurity** and threat detection
-- 🏆 Active **hackathon participant** — I build under pressure
-- 💡 I believe in **learning by building**
-
-<br clear="right"/>
+<br>
 
 ---
 
