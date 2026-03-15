@@ -17,7 +17,7 @@
 
 ---
 
-## ✦ PROFILE & PURPOSE
+## ✦ ABOUT ME
 
 > **B.Tech AI/ML Engineering Student @ PES University (First Year)**
 > *Endlessly curious about logic, deeply passionate about creation.*
