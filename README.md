@@ -17,27 +17,18 @@
 
 ---
 
-## ✦ A B O U T &nbsp; M E
+## ✦ PROFILE & PURPOSE
 
-<br>
+> **B.Tech AI/ML Engineering Student @ PES University (First Year)**
+> *Endlessly curious about logic, deeply passionate about creation.*
 
-> **B U I L D I N G &nbsp; I N T E L L I G E N T &nbsp; S Y S T E M S**  
-> *That solve real-world problems.*
+I'm an aspiring engineer exploring the intersection of **Artificial Intelligence** and **Cybersecurity**. I thrive on learning new programming languages and emerging technologies, and I'm currently diving into real-world systems architecture using tools like the **Raspberry Pi 5**. My philosophy is to build under pressure, learn by breaking things, and tackle challenging projects head-on.
 
-<br>
+**Beyond the Terminal**
+Life isn't just algorithms and syntax. When I step away from my IDE, I am an active **Bharatanatyam dancer**, an enthusiastic **Model UN participant**, and a creator of intricate **Mandala art**. I believe the best engineering comes from well-rounded creativity—I love deep discussions, exchanging fresh ideas, and collaborating with diverse teams.
 
-**[ Ｓ ] Ｒ Ｉ Ｒ Ａ Ｋ Ｓ Ｈ Ａ**  
-`B.TECH @ PES UNIVERSITY` ⬩ `GSOC 2026 ASPIRANT`
-
-<br>
-
-**⸻ ⸻ ⸻ &nbsp; T H E &nbsp; M A N I F E S T O &nbsp; ⸻ ⸻ ⸻**
-
-▸ **[ 01 ] THE FOCUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; Real-time AI systems & Backend architecture  
-▸ **[ 02 ] THE DEEP DIVE** &nbsp;⸻&nbsp; Distributed systems & Edge AI  
-▸ **[ 03 ] THE PASSION** &nbsp;&nbsp;&nbsp;⸻&nbsp; Cybersecurity & Threat detection  
-▸ **[ 04 ] THE METHOD** &nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; Active hackathon participant *(I build under pressure)*  
-▸ **[ 05 ] THE CREED** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⸻&nbsp; **I learn by building.**
+**The Mentality**
+Targeting **GSoC 2026**. I learn by building.
 
 <br>
 
@@ -48,16 +39,20 @@
 <div align="center">
 
 ### Languages
-<br>
-**Python, JavaScript, C++, C, Java, MySQL, HTML / CSS, Scratch**
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Software
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
